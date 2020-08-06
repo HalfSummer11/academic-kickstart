@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+# bio: 
 # interests:
 # - Artificial Intelligence
 # - Computational Linguistics
@@ -63,5 +62,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+I am a third-year undergraduate at Turing Class, Peking University and a research intern at [Visual Computing and Learning Lab](http://vcl.pku.edu.cn/index.html), advised by [Prof. Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). Currently, I am a summer intern at [Geometric Computing Group](https://geometry.stanford.edu/index.html), Stanford University, working with [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/index.html).
+
+My research interests are in computer graphics and 3D vision. In particular, I am interested in solving practical vision/graphics problems using deep learning. I will apply for PhD programs this fall.
 
 
