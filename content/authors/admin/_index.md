@@ -49,9 +49,9 @@ social:
   link: https://github.com/halfsummer11
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
@@ -63,8 +63,6 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year undergraduate at Turing Class, Peking University and a research intern at [Visual Computing and Learning Lab](http://vcl.pku.edu.cn/index.html), advised by [Prof. Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). Currently, I am a summer intern at [Geometric Computing Group](https://geometry.stanford.edu/index.html), Stanford University, working with [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/index.html).
+I am a final year undergraduate at Turing Class, Peking University and a research intern at [Visual Computing and Learning Lab](http://vcl.pku.edu.cn/index.html), advised by [Prof. Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). Currently, I am interning at [Geometric Computing Group](https://geometry.stanford.edu/index.html), Stanford University, working with [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/index.html).
 
-My research interests are in computer graphics and 3D vision. In particular, I am interested in solving practical vision/graphics problems using deep learning. I will apply for PhD programs this fall.
-
-
+My research interests are in computer vision, with a goal to design algorithms that empower computers to perceive and interact with the complexities of the real world just as human do. I'm particularly interested in interaction-driven object perception. I will apply for PhD programs this fall.
