@@ -63,6 +63,6 @@ user_groups:
 - Visitors
 ---
 
-I am a final year undergraduate at Turing Class, Peking University and a research intern at [Visual Computing and Learning Lab](http://vcl.pku.edu.cn/index.html), advised by [Prof. Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). Currently, I am interning at [Geometric Computing Group](https://geometry.stanford.edu/index.html), Stanford University, working with [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/index.html).
+I am a final year undergraduate at Turing Class, Peking University and a research intern at [Visual Computing and Learning Lab](http://vcl.pku.edu.cn/index.html), advised by [Prof. Baoquan Chen](http://cfcs.pku.edu.cn/baoquan/). Currently, I am interning at [Geometric Computing Group](https://geometry.stanford.edu/index.html), Stanford University, working with [Prof. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/index.html). I also collaborated closely with [Prof. Hao Su](https://cseweb.ucsd.edu/~haosu/) at UCSD.
 
-My research interests are in computer vision, with a goal to design algorithms that empower computers to perceive and interact with the complexities of the real world just as human do. I'm particularly interested in interaction-driven object perception. I will apply for PhD programs this fall.
+My research interests are in computer vision, with a goal to design algorithms that empower computers to perceive and interact with the complexities of the real world just as human do. I'm particularly interested in interaction-driven object perception. I am applying for PhD programs this fall.
